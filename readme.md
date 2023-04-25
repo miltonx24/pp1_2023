@@ -1,1 +1,2 @@
-hola mundo, este es mi primer commit o mensaje en ubuntu.
+hola mundo, ya modifique este mensaje.
+tambien agregue una segunda linea.
